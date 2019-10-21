@@ -1,0 +1,4 @@
+numpy>=1.14.0
+Flask>=0.12.2
+flask-restplus>=0.10.1
+python_dotenv
